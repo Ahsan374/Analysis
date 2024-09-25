@@ -1,1 +1,1 @@
-This repository contains the Analysis code of the Beamcomposition of the Secondary Beam at T10. The data was taken during September 2023. The data files, this project uses, are not publicaly accesible.
+This repository contains the Analysis code of the Beam composition of the Secondary Beam at T10 Proton Synchrotron at CERN. The data was taken during September 2023. The data files, this project uses, are not publicaly accesible.
